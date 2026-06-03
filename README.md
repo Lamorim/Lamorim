@@ -35,11 +35,11 @@ Other: Command line, basic debugging, problem-solving
 
 Here are some projects I’ve worked on as part of my studies and personal learning:
 
-📌 Project Name – Short description of what it does and what you learned
+📌 Soccer Tacticos – HTML, JavaScript, and the backend of old data being stored 
 
-📌 Project Name – Focus on a specific skill (e.g., logic, UI, APIs)
+📌 TODO List – Backend by storing old data in a database and basic HTML and JS 
 
-📌 Project Name – Coursework or personal experiment
+📌 Weather App – Coursework using HTML, CSS, and JavaScript
 
 Each project reflects my progress as a developer and my ability to apply the knowledge I’ve gained.
 
